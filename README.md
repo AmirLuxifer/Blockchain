@@ -1,2 +1,2 @@
 # Blockchain
-Blockchain with flask
+simple Blockchain with flask
